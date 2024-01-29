@@ -32,4 +32,6 @@ In the web application:
 2. Select the classification model.
 3. Click on 'Classify' to get the prediction.
 
-![image](https://github.com/aankitkumargupta/NLP-Model-for-Enhanced-Defence-Against-Spam-and-Deceptive-Campaigns/assets/107607897/404159a9-ad9e-4948-9710-ef9dd5a7b52c)
+![image](https://github.com/aankitkumargupta/NLP-Model-for-Enhanced-Defence-Against-Spam-and-Deceptive-Campaigns/assets/107607897/c868d8dd-98d9-49d3-8c0d-9436b6e2e5d2)
+![image](https://github.com/aankitkumargupta/NLP-Model-for-Enhanced-Defence-Against-Spam-and-Deceptive-Campaigns/assets/107607897/9189b433-58c9-4ec2-b75c-ffaf82e1d2a7)
+
