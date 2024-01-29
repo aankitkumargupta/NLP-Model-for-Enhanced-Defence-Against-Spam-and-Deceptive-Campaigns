@@ -23,8 +23,8 @@ You can install the required packages using the following command: pip install p
 - `best_<model_name>.pkl`: Saved models after training.
 
 ### Running the Flask Application
-1. Once the models are trained and saved, start the Flask application by running `app.py`.
-2. Access the web interface through `http://127.0.0.1:5000` in your web browser.
+1. Once the models are trained and saved, Flask application can be started by running `app.py`.
+2. Access the web interface through `http://127.0.0.1:5000` in web browser.
 
 ## Usage
 In the web application:
