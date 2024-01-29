@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spam text Classifier</title>
+</head>
+<body>
+    <form method="post">
+        <textarea name="text" placeholder="Enter your text here"></textarea><br>
+        <select name="model">
+            <option value="Naive Bayes">Naive Bayes</option>
+            <option value="SVM">SVM</option>
+            <option value="Logistic Regression">Logistic Regression</option>
+            <option value="Random Forest">Random Forest</option>        
+            <option value="KNN">KNN</option>
+        </select>
+        <button type="submit">Classify</button>
+    </form>
+    {% if result %}
+        <p>Result: {{ result }}</p>
+    {% endif %}
+</body>
+</html>
+
+
